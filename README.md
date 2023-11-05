@@ -6,9 +6,10 @@ and grows to a fully structured project.
 
 ### Index
 
-| SNo  | Project Name          | Description                                                           |
-|:-----|:----------------------|:----------------------------------------------------------------------|
-| 1.   | OOPAbstractClassDemo  | Generic classes for demonstrating an AbstractClass in OOP construct   |
+| SNo | Project Name          | Description                                                             |
+|:----|:----------------------|:------------------------------------------------------------------------|
+| 1.  | OOPAbstractClassDemo  | Generic classes for demonstrating an AbstractClass in OOP construct     |
+| 2,  | OOPIntrerfacesDemo    | How to write and implement single interface                             |
 
 
 
